@@ -1,0 +1,15 @@
+.toast{
+    display: none;
+}
+.progressBar {
+    height: 10px;
+    background-color: #ddd;
+    margin-top: 20px;
+    position: relative;
+  }
+  
+.progressFill {
+    height: 100%;
+    background-color: blue;
+    width: 0;
+  }
